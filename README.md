@@ -18,7 +18,7 @@ push to prod.
 
 4. The code should be containerized with the help of a Dockerfile. The
 Dockerfile should be built every time there is a push to GitHub. Use the
-following pre-built container for your application: hshar/webapp
+following pre-built container for your application: yameen11/webapp
 The code should reside in '/var/www/html'
 
 5. The above tasks should be defined in a Jenkins Pipeline with the following
